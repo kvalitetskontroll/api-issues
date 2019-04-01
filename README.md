@@ -8,3 +8,7 @@ Submit issues for Kvalitetskontroll API
 ## Authentication
 
 - Oauth2
+
+### Example Postman
+![](get-access-token.png)
+![](request-token.png)
