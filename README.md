@@ -10,5 +10,5 @@ Submit issues for Kvalitetskontroll API
 - Oauth2
 
 ### Example Postman
+![](get-access-token.png)
 ![](get-authorization-code-grant-token.png)
-![](request-token.png)
