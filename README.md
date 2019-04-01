@@ -9,6 +9,6 @@ Submit issues for Kvalitetskontroll API
 
 - Oauth2
 
-### Example Postman
+### Example tseting the API using Postman
 ![](get-access-token.png)
 ![](get-authorization-code-grant-token.png)
